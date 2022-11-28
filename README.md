@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+# Getting Started with Create React App 
+# Deployed link:https://reliable-capybara-8da63e.netlify.app
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
